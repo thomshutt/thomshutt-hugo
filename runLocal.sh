@@ -1,1 +1,1 @@
-hugo server --theme=hyde --buildDrafts --watch
+hugo server --theme=purehugo --buildDrafts --watch
