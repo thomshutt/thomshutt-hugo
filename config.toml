@@ -3,8 +3,7 @@ languageCode = "en-gb"
 title = "Thom Shutt"
 theme = "purehugo"
 Paginate = 20
-disqusShortname = "xxxx"
-DisableRSS = true
+disqusShortname = "thomshutt"
 
 [params]
   twitterName = "thomshutt"
