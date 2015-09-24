@@ -1,8 +1,11 @@
 baseurl = "http://thomshutt.github.io"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Thom Shutt"
+theme = "purehugo"
+Paginate = 20
+disqusShortname = "xxxx"
+DisableRSS = true
 
 [params]
-  twitter = "thomshutt"
-  github  = "thomshutt"
-  discourseUrl = ""
+  twitterName = "thomshutt"
+  githubName  = "thomshutt"
