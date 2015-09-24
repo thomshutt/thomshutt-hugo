@@ -21,13 +21,13 @@ So far, things have worked out surprisingly well. I've managed to resist the tem
 
 The built-in PDF reader is basic but works well for my needs (reading a book one page at a time, cover-to-cover). It allows skipping to different page numbers, but no e.g table-of-contents functionality:
 
-{{% img-responsive "images/kindle/Kindle1.png" %}}
+{{% img-responsive "/images/kindle/Kindle1.png" %}}
 
 I've been loading documents on via USB, being on OSX means that I have to use the Android file transfer app (rather than the tablet presenting itself as a block USB device), which is mildy annoying but not too much of a pain. It also seems to be very fussy about where things are placed - everything needs to go in *documents/* and trying to organise books via subfolders (e.g *documents/computing/*) causes them to be ignored. 
 
 One minor-but-actually-quite-annoying thing is that PDF covers aren't picked up for side-loaded documents, meaning that my UI has ended up being full of default covers (see below). This seems to have been an issue since [2011](http://www.amazon.com/forum/kindle?_encoding=UTF8&cdForum=Fx1D7SY3BVSESG&cdThread=TxM9YB62T1DLCN) and seems like a weird one to not have fixed. The only reason I can think of is that Amazon really don't expect/want the device to be used in this way - Fire OS seems very much to be designed as a slick content consumption experience, provided that you buy in fully to the Amazon ecosystem (Prime Video, Photo Storage etc.):
 
-{{% img-responsive "images/kindle/Kindle2.png" %}}
+{{% img-responsive "/images/kindle/Kindle2.png" %}}
 
 Battery life has been better than I expected - I haven't done any scientific testing, but I generally get a few days of solid reading (3-4 hours per day) before I need to dig out the charger. It also charges very quickly, but needs the provided charger (all of my other microUSB chargers were deemed to be too low-power by it).
 
