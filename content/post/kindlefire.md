@@ -3,6 +3,7 @@ date = "2015-09-24T12:59:43+02:00"
 draft = false 
 title = "Kindle Fire HD 7 - Two Months In"
 disqus_identifier = "thomshutt-kindlefire"
+disqus_title = "Kindle Fire HD 7 - Two Months In"
 
 +++
 
